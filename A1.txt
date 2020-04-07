@@ -1,11 +1,2 @@
 Testar
-
-
-Rad4
-
-
-
-
-
-Hej då
-n rad till
+Tänkte använda git seriöst nu!
